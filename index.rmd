@@ -1,0 +1,76 @@
+---
+date: "September 19, 2017"
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+---
+
+Kathleen M. Devlin
+============
+
+-----------------------------------------------
+                        
+Delanco, NJ 08075                          
+U.S.A.                           
+katdevlin26@gmail.com
+https://www.linkedin.com/in/kathleendevlin/
+
+-----------------------------------------------
+
+Education
+---------
+
+2015-2017
+:   **Master of Arts, Global Affairs**; Yale University (New Haven, CT)
+
+    *Relevant Coursework:* Advanced Business Analytics with Spreadsheets, Multivariate Statistics, Microeconomic Principles and Applications, Macroeconomics, Logic of Empirical Research, Economic Strategies for Doing Business in Emerging Markets, Big Data & Global Policies, Applied Methods of Data Analysis
+    
+    *Activities:* Teaching Fellowship, Applied Quantitative Analysis; Teaching Fellowship, The Next China; Managing Editor for Articles, Yale Journal of International Affairs; Member, Yale Law School Wine Society
+
+2007-2011
+:   **Bachelor of Arts, Political Science**; Villanova University (Villanova, PA)
+
+    *Minor:* Chinese Studies
+    *Study Abroad:* Boston University, Geneva, Switzlerand (Fall 2009)
+
+Professional Experience
+----------
+
+**Research Analyst, Pew Research Center**
+*Washington, D.C.; March 2013-July 2015*
+
+* Co-authored the report ???Mexican President Pena Nieto???s Ratings Slip with Economic Reform,??? covered by The New York Times, CNN, Agence France-Presse, Reuters, Bloomberg and other media 
+
+*	Published 11 posts for the Pew Research Center blog, Fact Tank, including a piece on foreign language learning that became the fifth most viewed post on the blog during July 2015 with over 30,000 views in two weeks
+
+*	Managed all aspects of a May 2015 U.S.-Germany survey, which included designing the survey, liaising with international vendors, reviewing contracts, tracking expenses for a $50,000 budget and coordinating publication	
+
+* Performed statistical analysis, significance testing and cross tabulations on large survey datasets with SPSS and Stata 
+
+* Trained new colleagues in Stata, HTML, SPSS, Excel, chart production and presentation best practices
+
+**English Teaching Assistant, U.S. Fulbright Program**
+*Ulu Tiram, Malaysia; January-November 2012*
+
+* Taught conversational English to more than 1,500 high school students in southern Malaysia
+
+* Developed and coordinated English language camps in 14 locations throughout southern Malaysia, incorporated activities to encourage female empowerment and sustainable development 
+
+* Secured $500 of equipment from nonprofit organizations and the U.S. Embassy for the school???s softball team 
+
+
+Skills
+--------------------
+
+**Technical:** R, Stata, SPSS, Python, HTML, CSS, SQL, Git, Word, 
+    Excel, PowerPoint, Outlook
+
+**Lannguages:** Mandarin Chinese (Advanced), Spanish (Intermediate)
+
+Recent Awards and Publications
+----------------------------------------
+
+* "U.S.-China Cooperation on Wildlife Smuggling: An Opportunity," East-West Center, Asia Pacific Bulletin, 10 August 2017, http://www.eastwestcenter.org/publications/us-china-cooperation-wildlife-smuggling-opportunity
+* Kathryn Davis Peace Fellowship, Middlebury College, Chinese School, Summer 2017
+* Yale University Graduate Fellowship, 2015-2017
