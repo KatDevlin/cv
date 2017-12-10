@@ -6,36 +6,53 @@ output:
     toc_float: yes
 ---
 
-Kathleen M. Devlin
+Kat Devlin
 ============
 
 -----------------------------------------------
                         
 Delanco, NJ 08075                          
 U.S.A.                           
-katdevlin26@gmail.com 
-https://www.linkedin.com/in/kathleendevlin/
+katdevlin26@gmail.com  
+[Linkedin](https://www.linkedin.com/in/kathleendevlin/)  
+[Github](https://github.com/KatDevlin)  
 
 -----------------------------------------------
+
+Objective
+---------
+Experienced researcher with advanced degree in quantitative methods seeking a data analyst role with a growing company looking to leverage client data into actionable business decisions.
 
 Education
 ---------
 
 2015-2017
-:   **Master of Arts, Global Affairs**; Yale University (New Haven, CT)
+:   **Master's Degree, Global Affairs, Quantitative Research Methods (concentration)**  
+Yale University - Jackson Institute for Global Affairs (New Haven, CT)  
 
-    *Relevant Coursework:* Advanced Business Analytics with Spreadsheets, Multivariate Statistics, Microeconomic Principles and Applications, Macroeconomics, Logic of Empirical Research, Economic Strategies for Doing Business in Emerging Markets, Big Data & Global Policies, Applied Methods of Data Analysis
+    *Relevant Coursework:* Applied Methods of Data Analysis, Multivariate Statistics, Advanced Business Analytics with Spreadsheets, Big Data & Global Policies, Microeconomic Principles and Applications, Macroeconomics, Logic of Empirical Research, Economic Strategies for Doing Business in Emerging Markets
     
-    *Activities:* Teaching Fellowship, Applied Quantitative Analysis; Teaching Fellowship, The Next China; Managing Editor for Articles, Yale Journal of International Affairs; Member, Yale Law School Wine Society
+    *Relevant Projects:*   
+    
+    * Influences on Female Contraception Choices in Cambodia: Used logistic regression models and model diagnostics in Stata to evaluate female contraception patterns from national health surveys.
+    * A Multivariate Analysis of the Global World Order: Employed principal components analysis, MANOVA and cluster analysis with k-means in R to analyze economic indicators and attitudinal data affecting international views on economic opportunity, climate change and nationalism. Also entailed merging multi-level datasets and numerous data visualizations.
+    
+    *Activities:*  
+    Managing Editor for Articles, Yale Journal of International Affairs  
+    Member, Yale Law School Wine Society
 
 2007-2011
-:   **Bachelor of Arts, Political Science**; Villanova University (Villanova, PA)
+:   **Bachelor's Degree, Political Science, Chinese Studies (minor)**  
+Villanova University (Villanova, PA), magna cum laude, honors program
 
-    *Minor:* Chinese Studies
-    *Study Abroad:* Boston University, Geneva, Switzlerand (Fall 2009)
 
 Professional Experience
 ----------
+
+**Teaching Fellow - Applied Quantitative Analysis, Yale University**
+*New Haven, CT; January-May 2017*
+
+* Taught approximately 20 undergraduate students applied statistics for social science research and Stata syntax including generating variables, one- and two-sample t-tests, linear regression models and data visualizations
 
 **Research Analyst, Pew Research Center**
 *Washington, D.C.; March 2013-July 2015*
@@ -63,7 +80,7 @@ Professional Experience
 Skills
 --------------------
 
-**Technical:** R, Stata, SPSS, Python, HTML, CSS, SQL, Git, Word, 
+**Technical:** R, Stata, SPSS, Python, HTML, XML, SQL, Git, Word, 
     Excel, PowerPoint, Outlook
 
 **Lannguages:** Mandarin Chinese (Advanced), Spanish (Intermediate)
@@ -72,5 +89,5 @@ Recent Awards and Publications
 ----------------------------------------
 
 * "U.S.-China Cooperation on Wildlife Smuggling: An Opportunity," East-West Center, Asia Pacific Bulletin, 10 August 2017, http://www.eastwestcenter.org/publications/us-china-cooperation-wildlife-smuggling-opportunity
-* Kathryn Davis Peace Fellowship, Middlebury College, Chinese School, Summer 2017
+* Kathryn Davis Peace Fellowship, Middlebury College, Intensive Chinese Language Immersion Program, Summer 2017
 * Yale University Graduate Fellowship, 2015-2017
