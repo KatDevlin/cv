@@ -11,7 +11,7 @@ Kat Devlin
 
 -----------------------------------------------
                         
-Delanco, NJ 08075                          
+Washington, DC 20009                          
 U.S.A.                           
 katdevlin26@gmail.com  
 [Linkedin](https://www.linkedin.com/in/kathleendevlin/)  
@@ -21,7 +21,46 @@ katdevlin26@gmail.com
 
 Objective
 ---------
-Experienced researcher with advanced degree in quantitative methods seeking a data analyst role with a growing company looking to leverage client data into actionable business decisions.
+Leverage quantitative skillset and knowledge of international relations to carry out insightful computational research products, from conception to execution to analysis for a wide array of technical and non-technical audiences.
+
+Professional Experience
+----------
+
+**Research Associate - Global Attitudes & Trends, Pew Research Center**
+*Washington, DC; May 2018-Present*
+
+* Act as project manager with international vendors to carry out simultaneous survey fieldwork in 15 countries, emphasizing proper contact procedures with local field staff to achieve representative probability sampling while sticking to tight deadlines and budgets
+
+* Run quality control processes on partial datasets, contact data and weighted datasets, including descriptive statistics, excel macros to detect interview fraud and evaluation of weighting procedures (imputation methods, trimmed weight selection, etc.)
+
+* Manage the Global Attitudes team's official Twitter account (@PewGlobal), expanding account to more than 50K followers
+
+**Teaching Fellow - Applied Quantitative Analysis, Yale University**
+*New Haven, CT; January-May 2017*
+
+* Taught ~20 undergraduate students applied statistics for social science research and Stata syntax including generating variables, one- and two-sample t-tests, linear regression models and data visualizations
+
+**Research Analyst, Pew Research Center**
+*Washington, D.C.; March 2013-July 2015*
+
+* Co-authored the report "Mexican President Pena Nieto's Ratings Slip with Economic Reform," covered by The New York Times, CNN, Agence France-Presse, Reuters, Bloomberg and other media 
+
+*	Published 11 posts for the Pew Research Center blog, Fact Tank, including a piece on foreign language learning that became the fifth most viewed post on the blog during July 2015 with more than 30,000 views in two weeks
+
+*	Managed all aspects of a May 2015 U.S.-Germany survey, which included designing the survey, liaising with international vendors, reviewing contracts, tracking expenses for a $50,000 budget and coordinating publication	
+
+* Performed statistical analysis, significance testing and cross tabulations on large survey datasets with SPSS and Stata 
+
+* Trained new colleagues in Stata, HTML, SPSS, Excel, chart production and presentation best practices
+
+**English Teaching Assistant, U.S. Fulbright Program**
+*Ulu Tiram, Malaysia; January-November 2012*
+
+* Taught conversational English to more than 1,500 high school students in southern Malaysia
+
+* Developed and coordinated English language camps in 14 locations throughout southern Malaysia, incorporated activities to encourage female empowerment and sustainable development 
+
+* Secured $500 of equipment from nonprofit organizations and the U.S. Embassy for the school's softball team 
 
 Education
 ---------
@@ -46,48 +85,18 @@ Yale University - Jackson Institute for Global Affairs (New Haven, CT)
 Villanova University (Villanova, PA), magna cum laude, honors program
 
 
-Professional Experience
-----------
-
-**Teaching Fellow - Applied Quantitative Analysis, Yale University**
-*New Haven, CT; January-May 2017*
-
-* Taught approximately 20 undergraduate students applied statistics for social science research and Stata syntax including generating variables, one- and two-sample t-tests, linear regression models and data visualizations
-
-**Research Analyst, Pew Research Center**
-*Washington, D.C.; March 2013-July 2015*
-
-* Co-authored the report "Mexican President Pena Nieto's Ratings Slip with Economic Reform," covered by The New York Times, CNN, Agence France-Presse, Reuters, Bloomberg and other media 
-
-*	Published 11 posts for the Pew Research Center blog, Fact Tank, including a piece on foreign language learning that became the fifth most viewed post on the blog during July 2015 with over 30,000 views in two weeks
-
-*	Managed all aspects of a May 2015 U.S.-Germany survey, which included designing the survey, liaising with international vendors, reviewing contracts, tracking expenses for a $50,000 budget and coordinating publication	
-
-* Performed statistical analysis, significance testing and cross tabulations on large survey datasets with SPSS and Stata 
-
-* Trained new colleagues in Stata, HTML, SPSS, Excel, chart production and presentation best practices
-
-**English Teaching Assistant, U.S. Fulbright Program**
-*Ulu Tiram, Malaysia; January-November 2012*
-
-* Taught conversational English to more than 1,500 high school students in southern Malaysia
-
-* Developed and coordinated English language camps in 14 locations throughout southern Malaysia, incorporated activities to encourage female empowerment and sustainable development 
-
-* Secured $500 of equipment from nonprofit organizations and the U.S. Embassy for the school's softball team 
-
-
 Skills
 --------------------
 
 **Technical:** R, Stata, SPSS, Python, HTML, XML, SQL, Git, Word, 
     Excel, PowerPoint, Outlook
 
-**Lannguages:** Mandarin Chinese (Advanced), Spanish (Intermediate)
+**Language:** Mandarin Chinese (advanced, all modalities)
 
 Recent Awards and Publications
 ----------------------------------------
 
+* U.S. views of China in 2018 (forthcoming, Pew Research Center)
 * "U.S.-China Cooperation on Wildlife Smuggling: An Opportunity," East-West Center, Asia Pacific Bulletin, 10 August 2017, http://www.eastwestcenter.org/publications/us-china-cooperation-wildlife-smuggling-opportunity
 * Kathryn Davis Peace Fellowship, Middlebury College, Intensive Chinese Language Immersion Program, Summer 2017
 * Yale University Graduate Fellowship, 2015-2017
