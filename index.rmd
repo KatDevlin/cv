@@ -87,14 +87,14 @@ Skills
 Select Publications
 ----------------------------------------
 
-* ["As Pandemic Continues, More in U.S. and Europe Feel Major Impact on Their Lives,"](https://pewrsr.ch/3oSAfRT)
-* ["Legislators in UK, Canada and Australia Express Post-election Enthusiasm for Biden Administration on Twitter",](https://pewrsr.ch/3soMPeg)
-* ["How quantitative methods can supplement a qualitative approach when working with focus groups",](https://bit.ly/3oglTKA)
-* ["Most Approve of National Response to COVID-19 in 14 Advanced Economies",](https://pewrsr.ch/3gH65gl)
-* ["Analyzing international survey data with the pewmethods R package",](https://link.medium.com/tff9fmDBd7)
-* ["China’s Economic Growth Mostly Welcomed in Emerging Markets, but Neighbors Wary of Its Influence",](https://pewrsr.ch/2RbL1p0)
-* ["Most Japanese think their country’s best days are behind them,"](http://po.st/n4U2GP) (Channel NewsAsia op-ed).
-* ["U.S.-China Cooperation on Wildlife Smuggling: An Opportunity,"](http://www.eastwestcenter.org/publications/us-china-cooperation-wildlife-smuggling-opportunity) (East-West Center op-ed).
+* ["As Pandemic Continues, More in U.S. and Europe Feel Major Impact on Their Lives"](https://pewrsr.ch/3oSAfRT)
+* ["Legislators in UK, Canada and Australia Express Post-election Enthusiasm for Biden Administration on Twitter"](https://pewrsr.ch/3soMPeg)
+* ["How quantitative methods can supplement a qualitative approach when working with focus groups"](https://bit.ly/3oglTKA)
+* ["Most Approve of National Response to COVID-19 in 14 Advanced Economies"](https://pewrsr.ch/3gH65gl)
+* ["Analyzing international survey data with the pewmethods R package"](https://link.medium.com/tff9fmDBd7)
+* ["China’s Economic Growth Mostly Welcomed in Emerging Markets, but Neighbors Wary of Its Influence"](https://pewrsr.ch/2RbL1p0)
+* ["Most Japanese think their country’s best days are behind them"](http://po.st/n4U2GP) (Channel NewsAsia op-ed)
+* ["U.S.-China Cooperation on Wildlife Smuggling: An Opportunity"](http://www.eastwestcenter.org/publications/us-china-cooperation-wildlife-smuggling-opportunity) (East-West Center op-ed)
 
 Conference Presentations and Papers
 ----------------------------------------
