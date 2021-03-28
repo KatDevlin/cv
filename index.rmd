@@ -61,28 +61,16 @@ Professional Experience
 Education
 ---------
 
-2015-2017
-:   **Master's Degree, Global Affairs; concentrations in Quantitative Research Methods and Chinese Studies**  
+**Master's Degree, Global Affairs; concentrations in Quantitative Research Methods and Chinese Studies**, 2017  
 Yale University - Jackson Institute for Global Affairs (New Haven, CT)  
 
-    *Relevant Coursework:* Applied Methods of Data Analysis, Multivariate Statistics, Advanced Business Analytics with Spreadsheets, Big Data & Global Policies, Microeconomic Principles and Applications, Macroeconomics, Logic of Empirical Research, Economic Strategies for Doing Business in Emerging Markets
+* *Relevant Coursework:* Applied Methods of Data Analysis, Multivariate Statistics, Advanced Business Analytics with Spreadsheets, Big Data & Global Policies, Microeconomic Principles and Applications, Macroeconomics, Logic of Empirical Research, Economic Strategies for Doing Business in Emerging Markets
     
-    *Activities:*  
-    Managing Editor for Articles, Yale Journal of International Affairs  
-    Member, Yale Law School Wine Society
+* *Activities:* Managing Editor for Articles, Yale Journal of International Affairs; Member, Yale Law School Wine Society
 
-2007-2011
-:   **Bachelor's Degree, Political Science; minor in Chinese Studies**  
+**Bachelor's Degree, Political Science; minor in Chinese Studies**, 2011  
 Villanova University (Villanova, PA), magna cum laude, honors program
 
-
-Skills
---------------------
-
-**Technical:** R, Stata, SPSS, HTML, SQL, Git, Word, 
-    Excel, PowerPoint, Outlook
-
-**Language:** Mandarin Chinese (advanced, all modalities)
 
 Select Publications
 ----------------------------------------
@@ -110,9 +98,9 @@ Conference Presentations and Papers
 Skills and Training
 ----------------------------------------
 
-* Statistical Analysis: R (tidyverse, lme4, tidymodels, survey), Stata, SPSS, Excel
-* Machine Learning: supervised classification (support-vector machines, gradient boosting)
-* Text Analysis: word2vec, topic models (LDA, STM)
-* Foreign Language: Proficiency in Mandarin Chinese, all modalities
-* Volunteer/Affiliations: Council on Foreign Relations, Young Professionals Program, 2018-Present; Freer/Sackler Museum of Asian Art, Member, 2018-Present
-* Workshops Attended: Text As Data with R, 3-day seminar with Dr. Brandon Stewart (2020); Multilevel Modeling in R, 3-day seminar with Dr. Stephen Vaisey (2019)
+* **Statistical Analysis:** R (tidyverse, lme4, tidymodels, survey), Stata, SPSS, Excel
+* **Machine Learning:** supervised classification (support-vector machines, gradient boosting)
+* **Text Analysis:** word2vec, topic models (LDA, STM)
+* **Foreign Language:** Proficiency in Mandarin Chinese, all modalities
+* **Volunteer/Affiliations:** Council on Foreign Relations, Young Professionals Program, 2018-Present; Freer/Sackler Museum of Asian Art, Member, 2018-Present
+* **Workshops Attended:** Text As Data with R, 3-day seminar with Dr. Brandon Stewart (2020); Multilevel Modeling in R, 3-day seminar with Dr. Stephen Vaisey (2019)
