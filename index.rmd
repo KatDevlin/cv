@@ -1,5 +1,5 @@
 ---
-date: "Spring 2021"
+date: "Fall 2021"
 output:
   html_document:
     toc: yes
@@ -14,7 +14,7 @@ Kat Devlin
 Washington, DC 20009                          
 [Linkedin](https://www.linkedin.com/in/kathleendevlin/)  
 [Github](https://github.com/KatDevlin)  
-Last updated: March 2021
+Last updated: Oct. 2021
 -----------------------------------------------
 
 Objective
@@ -24,18 +24,23 @@ Leverage quantitative skill set and international relations knowledge to carry o
 Professional Experience
 ----------
 
-**Research Associate I/II - Global Attitudes & Trends, Pew Research Center**
-*Washington, DC; May 2018-Present*
+**Associate - McKinsey & Company**
+*Washington, DC; August 2021-Present*
 
-* Manage research agenda, project schedules and $4 million budget proposals for projects that include surveys in 40 countries, globalization focus groups in Western Europe and fieldwork observation in East Africa
+* Integrative consultant assisting an array of private, public and social sector clients to solve their most pressing challenges
+
+**Research Associate I/II - Global Attitudes & Trends, Pew Research Center**
+*Washington, DC; May 2018-July 2021*
+
+* Managed research agenda, project schedules and $4 million budget proposals for projects that included surveys in 40 countries, globalization focus groups in Western Europe and fieldwork observation in East Africa
 
 * Author of more than 20 reports, op-eds and blog posts on topics such as global perceptions of China, attitudes toward U.S. foreign policy and views of COVID-19-related topics 
 
-* Deliver reports to policymakers, academics, foundations and private sector groups, including Senate Foreign Relations Committee staff, the U.S.-China Business Council and Shell Global
+* Delivered reports to policymakers, academics, foundations and private sector groups, including Senate Foreign Relations Committee staff, the U.S.-China Business Council and Shell Global
 
-* Collaborate on computational social science projects, including text-as-data analyses with focus group transcripts, structural topic modeling and hierarchical modeling with social media data
+* Collaborated on computational social science projects, including text-as-data analyses with focus group transcripts, structural topic modeling and hierarchical modeling with social media data
 
-* Design survey questionnaires, review country sample plans, manage international fieldwork, perform quality control and assess survey weights using R, SPSS and Stata
+* Designed survey questionnaires, reviewed country sample plans, managed international fieldwork, performed quality control and assessed survey weights using R, SPSS and Stata
 
 **Teaching Fellow - Applied Quantitative Analysis (Dr. Justin Thomas), Yale University**
 *New Haven, CT; January-May 2017*
